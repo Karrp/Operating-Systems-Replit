@@ -1,0 +1,1 @@
+clang++ -fsanitize=address CMakeFiles/1_6.dir/1_6.cpp.o -o 1_6 

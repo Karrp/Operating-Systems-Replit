@@ -1,0 +1,12 @@
+/home/runner/COS/build/CMakeFiles/rebuild_cache.dir
+/home/runner/COS/build/CMakeFiles/edit_cache.dir
+/home/runner/COS/build/CMakeFiles/copy-compile-commands.dir
+/home/runner/COS/build/lab-01/CMakeFiles/rebuild_cache.dir
+/home/runner/COS/build/lab-01/CMakeFiles/world.dir
+/home/runner/COS/build/lab-01/CMakeFiles/large.dir
+/home/runner/COS/build/lab-01/CMakeFiles/hello.dir
+/home/runner/COS/build/lab-01/CMakeFiles/edit_cache.dir
+/home/runner/COS/build/lab-01/CMakeFiles/mycp.dir
+/home/runner/COS/build/lab-02/CMakeFiles/rebuild_cache.dir
+/home/runner/COS/build/lab-02/CMakeFiles/edit_cache.dir
+/home/runner/COS/build/lab-02/CMakeFiles/1_6.dir

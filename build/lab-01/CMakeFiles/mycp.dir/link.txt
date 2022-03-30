@@ -1,0 +1,1 @@
+clang++ -fsanitize=address CMakeFiles/mycp.dir/mycp.cpp.o -o mycp 

@@ -1,0 +1,1 @@
+clang -fsanitize=address CMakeFiles/world.dir/world.c.o -o world 
